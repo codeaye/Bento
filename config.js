@@ -10,6 +10,8 @@ const CONFIG = {
   // ├┴┐├─┤└─┐││  └─┐
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
+  title: "Dashboard",
+
   // General
   name: 'Nav',
   imageBackground: false,
