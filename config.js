@@ -10,7 +10,7 @@ const CONFIG = {
   // ├┴┐├─┤└─┐││  └─┐
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
-  title: "Dashboard",
+  title: 'Dashboard',
 
   // General
   name: 'Nav',
